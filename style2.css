@@ -1,0 +1,91 @@
+body{
+  background-image:url("http://www.getacoolbox.com/wp-content/uploads/2012/08/bg_pixeled_light-pink.jpg");
+ /* background-repeat: no-repeat;*/
+}
+pre{
+  color:yellow;
+  font-size:25px;
+  margin-left:300px;
+  margin-top:10px;
+  padding:15px 15px 15px 15px;
+  line-height:55px;
+  font-family:Courier New;
+  font-style:oblique;
+  font-weight:normal;
+}
+h1{
+  color:#F50057;
+  font-size:50px;
+    margin-left:600px;
+  margin-top:150px;
+  text-decoration:underline overline;
+  font-style:italic;
+  font-weight:bold;
+}
+.fa {
+  padding: 35px;
+  font-size: 45px;
+  width: 50px;
+  font-family:TimesRoman;
+  text-align:center;
+  text-decoration:none;
+  margin-left:700px;
+  padding:9px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+    
+}
+#myproject {
+  background-color:black;
+  height:40px;
+  font-size:30px;
+  font-weight:250;
+  font-family: 'Oswald', sans-serif;
+}
+#myproject ul {
+  padding:0;
+  margin:0;
+  list-style-type:none;
+  text-align:center
+}
+#myproject li{
+  display:inline;
+  padding:15px;
+  vertical-align:middle;
+}
+#myproject a{
+  text-decoration:none;
+  padding:10px 10px 10px 10px;
+  color:grey;
+  vertical-align:middle;
+}
+#myproject a:hover{
+  color:yellow;
+  background-color:red;
+}
+ .fa a:hover{
+color:yellow;
+  background-color:red;    
+}
+#my{
+  width:25%;
+  border-radius:15px;
+}
+#myphoto{
+  margin-left:590px;
+  margin-top:50px;
+  opacity:0.7;
+}
+#spl{
+  margin-left:570px;
+  margin-top:0px;
+  margin-right:200px;
+}
+h3{
+  color:orange;
+  text-align: center;
+  margin-top:5px;
+  font-size:30px;
+}
